@@ -1,3 +1,14 @@
+'''
+Useful reference is 
+https://developers.google.com/youtube/v3/docs/
+
+This requires "client_secrets.json" to be downloaded to the same directory as this file 
+from https://console.developers.google.com/apis/dashboard
+
+reference:https://developers.google.com/api-client-library/python/guide/aaa_overview
+
+'''
+
 
 ### START BOILERPLATE CODE
 
